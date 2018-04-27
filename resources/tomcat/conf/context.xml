@@ -16,7 +16,7 @@
   -->
 
 <Context>
-	 <WatchedResource>/home/vcap/app/Tier1Client/WEB-INF/web.xml</WatchedResource>
-	 <WatchedResource>/home/vcap/app/Tier2Flight/WEB-INF/web.xml</WatchedResource>
-	 <WatchedResource>/home/vcap/app/Tier3Schedl/WEB-INF/web.xml</WatchedResource>
+	 <WatchedResource>/home/vcap/app/Tier1Client/WEB-INF</WatchedResource>
+	 <WatchedResource>/home/vcap/app/Tier2Flight/WEB-INF</WatchedResource>
+	 <WatchedResource>/home/vcap/app/Tier3Schedl/WEB-INF</WatchedResource>
 </Context>

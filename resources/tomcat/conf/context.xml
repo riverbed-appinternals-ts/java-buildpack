@@ -16,5 +16,5 @@
   -->
 
 <Context>
-	 <WatchedResource>/home/vcap/app</WatchedResource>
+	 <WatchedResource>/home/vcap/app/WEB-INF</WatchedResource>
 </Context>

@@ -16,7 +16,7 @@
   -->
 
 <Context>
-	 <WatchedResource>/home/vcap/app/Tier1Client</WatchedResource>
-	 <WatchedResource>/home/vcap/app/Tier2Flight</WatchedResource>
-	 <WatchedResource>/home/vcap/app/Tier3Schedl</WatchedResource>
+	 <WatchedResource>/home/vcap/app</WatchedResource>
+	 <WatchedResource>/home/vcap/app</WatchedResource>
+	 <WatchedResource>/home/vcap/app</WatchedResource>
 </Context>
